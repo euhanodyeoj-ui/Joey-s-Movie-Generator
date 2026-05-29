@@ -1,4 +1,0 @@
-streamlit>=1.45
-pandas
-openpyxl
-requests
